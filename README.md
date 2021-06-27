@@ -3,7 +3,7 @@
 
  In this web-application, users can search Movies by their name and can also get their detailed information from IMDb Website. I've used OMDB API to fetch the movies data. You can search a movie in the search bar and if results match then you will get the related movies else you will get an error message. 
 
-Check it out [here](https://salty-brushlands-33787.herokuapp.com/)
+Check it out [here](https://salty-brushlands-33787.herokuapp.com/).
 
 ## Author
 
@@ -44,4 +44,4 @@ $ node app.js
   App server starts running at "localhost:3000"
 
 ## Demo
-[](../demo/Demo%20video..mp4)
+[](https://github.com/divyaaa123/Movie-Search-App/blob/master/demo/Demo%20video.mp4)
