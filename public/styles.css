@@ -1,0 +1,31 @@
+.bg-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.error-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 50vh;
+  background-color: #fff;
+}
+.details {
+  width: 260px;
+  height: 300px;
+  margin-top: 10px;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link {
+  background-color: lightgray;
+  display: block;
+  text-align: center;
+}
