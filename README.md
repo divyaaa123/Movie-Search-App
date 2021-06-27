@@ -44,4 +44,5 @@ $ node app.js
   App server starts running at "localhost:3000"
 
 ## Demo
-[](https://github.com/divyaaa123/Movie-Search-App/blob/master/demo/Demo%20video.mp4)
+
+![](https://github.com/divyaaa123/Movie-Search-App/blob/master/demo/Demo%20video.gif)
