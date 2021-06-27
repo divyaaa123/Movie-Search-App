@@ -1,7 +1,7 @@
 # Movie Search App
 ## Description
 
- In this web-application, user can search of Movies by it's name and can also get it's detailed info from IMDb Website. I've used OMDB API to fetch the movies data. You can search a movie in the search bar and if results match then you will get the related movies else you will get an error message. 
+ In this web-application, users can search Movies by their name and can also get their detailed information from IMDb Website. I've used OMDB API to fetch the movies data. You can search a movie in the search bar and if results match then you will get the related movies else you will get an error message. 
 
 Check it out [here](https://salty-brushlands-33787.herokuapp.com/)
 
