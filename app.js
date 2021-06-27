@@ -12,6 +12,7 @@ app.get("/results",function (req,res) {
 
     var key = process.env.API_KEY;
     let url ="http://www.omdbapi.com/?i=tt3896198&apikey="+key+"&s="+ query;
+    console.log(url);
     if (query === ""){ 
         res.render("error");
     }

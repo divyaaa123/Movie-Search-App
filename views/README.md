@@ -3,7 +3,7 @@
 
  In this web-application, user can search of Movies by it's name and can also get it's detailed info from IMDb Website. I've used OMDB API to fetch the movies data. You can search a movie in the search bar and if results match then you will get the related movies else you will get an error message. 
 
-Check it out [here]()
+Check it out [here](https://salty-brushlands-33787.herokuapp.com/)
 
 ## Author
 
@@ -35,7 +35,7 @@ Check it out [here]()
 Make sure you have [Node.js](https://nodejs.org/en/) and the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed.
 
 ```bash
-$ git clone 
+$ git clone https://github.com/divyaaa123/Movie-Search-App.git
 $ cd Movie-Search-App
 $ npm install 
 $ node app.js
